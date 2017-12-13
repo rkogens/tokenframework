@@ -1,4 +1,5 @@
 HOW CRYPTO-TOKENS QUALIFY UNDER SWISS LAW: A COMPREHENSIVE FRAMEWORK
+
 by Catrina Luchsinger Gähwiler and Ronald Kogens
 
 Blockchain technology has become a reality as part of the digitalisationof the economy. Every day, there is proof of disruptive transformations of long-standing mechanisms into new ecosystems on the blockchain. While existing market participants are in many cases overwhelmed by the new normal, the new players operate with the greatest creativity and efficiency. 
