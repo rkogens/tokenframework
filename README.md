@@ -1,3 +1,4 @@
+
 # HOW CRYPTO-TOKENS QUALIFY UNDER SWISS LAW: A COMPREHENSIVE FRAMEWORK
 
 by Catrina Luchsinger Gähwiler and Ronald Kogens
@@ -12,6 +13,8 @@ The important (and not so new) principle for finding your way around in this new
 In order to bring the tokens of the new ecosystems closer to the public, FRORIEP's Disruptive Technologies Practice Group has developed a Token Framework. In doing so, a distinction is made between cryptocurrencies, tokens giving title to monetary claims and tokens for other purposes. Tokens giving title to monetary claims are further categorisedas being either debt, equity or participation rights tokens. These subcategories stem from the financial treatment of the obligations on the balance sheet or (in the case of participation rights tokens) on the profit & loss statement of the issuer.
 
 The following diagrams show the possible functions of tokens on the blockchainand the FRORIEP Token Framework. 
+
+https://blog.froriep.com/en/how-crypto-token-qualify-under-swiss-law-a-comprehensive-framework
 
 # LICENSE
 
