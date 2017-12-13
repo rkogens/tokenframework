@@ -1,4 +1,4 @@
-HOW CRYPTO-TOKENS QUALIFY UNDER SWISS LAW: A COMPREHENSIVE FRAMEWORK
+# HOW CRYPTO-TOKENS QUALIFY UNDER SWISS LAW: A COMPREHENSIVE FRAMEWORK
 
 by Catrina Luchsinger Gähwiler and Ronald Kogens
 
@@ -13,7 +13,7 @@ In order to bring the tokens of the new ecosystems closer to the public, FRORIEP
 
 The following diagrams show the possible functions of tokens on the blockchainand the FRORIEP Token Framework. 
 
-LICENSE
+# LICENSE
 
 Copyright (c) 2017 FRORIEP Legal Ltd.
 
